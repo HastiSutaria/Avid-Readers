@@ -1,0 +1,18 @@
+.card-image{
+    width:  100px;
+    height: 150px;
+    object-fit: cover;
+    text-align: center;
+}
+.navbar,
+.navbar-default {
+    background-image: linear-gradient(to bottom,#d198a9 0,#fa8c8c 100%) !important; /* override background image gradient w/ flat color */
+    font-size: 20px;
+}
+.inner{
+    padding: 1%;
+    font-size: 20px;
+}
+.navbar-brand{
+    font-size: 20px;
+}
